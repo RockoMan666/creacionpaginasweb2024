@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ImagenDeFondo
+comment1.params=objPanelImagen
+comment1.target=ImagenDeFondo(PanelConFondo)
+comment2.params=obj_grafico
+comment2.target=void\ dibujalo(java.awt.Graphics2D)
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PanelConFondo
+comment1.params=obj_graf
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=g
+comment2.target=void\ dibujar(java.awt.Graphics2D)
+numComments=3
